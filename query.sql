@@ -1,0 +1,1 @@
+select * from workspace.movie_dataset.movies limit 10
